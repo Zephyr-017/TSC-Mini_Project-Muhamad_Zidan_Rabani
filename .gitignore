@@ -1,0 +1,16 @@
+# Configuration / Extension tool
+.commandcode/
+
+# Dependencies / Node Modules (jika ada)
+node_modules/
+
+# Environment Variables & Keys
+.env
+.env.local
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
